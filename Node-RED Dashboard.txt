@@ -1,0 +1,2 @@
+Node-RED Dashboard Link:
+https://node-red-77.eu-gb.mybluemix.net/ui/#!/0?socketid=NKR5EHCu5Q5HxA0HAABN
