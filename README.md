@@ -12,7 +12,7 @@ sections of the owners manual to help solve our customers’ problems.
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important
 and what is not. This will improve the answers returned from the queries.
 
-This project uses IBM cloud services like Watson Assistant, Watson Discovery, Cloud Function Actoins and NodeRED for buliding the chatbot.
+This project uses IBM cloud services like Watson Assistant, Watson Discovery, Cloud Function Actions and NodeRED for buliding the chatbot.
 
 
 
